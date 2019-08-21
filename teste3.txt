@@ -1,1 +1,2 @@
 testando envio de arquiv de um note, pra um computdor de trabalho
+foi recebido no computador de trabalho, enviando novamente para o notebook.
