@@ -1,2 +1,2 @@
 # 4_Periodo
-Facudade Quarto periodo
+Faculdade Quarto periodo
